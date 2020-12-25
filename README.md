@@ -1,4 +1,4 @@
-# Loop optimization
+# Optimization via profiler
 
 ### Initial code (#15)
 
@@ -78,13 +78,13 @@ functions were removed and only `func2` is left.
 }
 
 ```
-### Results
-# Initial results
+# Results
+### Initial results
 Profiler output
 ![alt text](example-images/initial_profiler_res.png)
 Call tree
 ![alt text](example-images/initial_call_tree.png) 
-# Optimized code results
+### Optimized code results
 Profiler output
 ![alt text](example-images/optimized_profiler_res.png)
 Call tree
